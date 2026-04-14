@@ -42,19 +42,29 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-
+<img 
+    align="left" 
+    alt="Banco de dados" 
+    title="Banco de dados"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/T4qESB0gwI8bklGWSdZHdOWAFs1qFRpqQE1yepTkfVo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS8x/MjgvMTY5MjUvMTY5/MjU2MzgucG5n" 
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-right : 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnrxxw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
-  />
+    align="left" 
+    alt="Linguagem C" 
+    title="Linguagem C"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/2_3kHnWfQsYANeMnfZ3WnvScE_4QPViUM8IgwwvfJHc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudmV4ZWxzLmNv/bS9tZWRpYS91c2Vy/cy8zLzE2NjE3OC9p/c29sYXRlZC9wcmV2/aWV3LzI2NDhmM2Q0/NWVlMDczN2RhMjNk/NGM5ZTJhZWY0YzRj/LWxpbmd1YWdlbS1k/ZS1wcm9ncmFtYWNh/by1jLXBsYW5hLnBu/Zw" 
+/>
 
-</p>
+<br/>
+<br/>
+
+### 📱 Redes Socias
+
+- [LinkedIn](https://www.linkedin.com/in/junior-silva-9b163b396/)
+
+
