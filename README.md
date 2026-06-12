@@ -1,4 +1,4 @@
-# 💻 junior
+[README.md](https://github.com/user-attachments/files/28865561/README.md)# 💻 junior
 
 **`Desenvolvedor `**
 
