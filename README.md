@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28865561/README.md)# 💻 junior
+# 💻 junior
 
 **`Desenvolvedor `**
 
@@ -31,6 +31,15 @@
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Javat" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://imgs.search.brave.com/-Egeb9B77NzlHmN5efitRnW2qitCv9IOnLq9luDzsdg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMjI2LzIyNjc3/Ny5wbmc" 
 />
 
 <img 
